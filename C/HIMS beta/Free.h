@@ -1,0 +1,1 @@
+void Free(Slist *pList);
